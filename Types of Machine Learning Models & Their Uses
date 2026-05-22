@@ -1,9 +1,11 @@
-| ML Model Type                | Short Use                                       |
-| ---------------------------- | ----------------------------------------------- |
-| **Supervised Learning**      | Predict output using labeled data               |
-| **Unsupervised Learning**    | Find hidden patterns in data                    |
-| **Reinforcement Learning**   | Learn through rewards and penalties             |
-| **Semi-Supervised Learning** | Train with small labeled + large unlabeled data |
-| **Self-Supervised Learning** | Learn patterns automatically from data          |
-| **Deep Learning**            | Handle complex tasks like image, voice, NLP     |
-| **Generative AI Models**     | Generate text, images, videos, music            |
+| ML Model Type              | Short Use                                       |
+| -------------------------- | ----------------------------------------------- |
+| Supervised Learning        | Predict output using labeled data               |
+| Unsupervised Learning      | Find hidden patterns in data                    |
+| Reinforcement Learning     | Learn through rewards and penalties             |
+| Semi-Supervised Learning   | Train with small labeled + large unlabeled data |
+| Self-Supervised Learning   | Learn patterns automatically from data          |
+| Deep Learning              | Handle complex tasks like image, voice, NLP     |
+| Generative AI Models       | Generate text, images, videos, music            |
+|------------------------------------------------------------------------------|
+
