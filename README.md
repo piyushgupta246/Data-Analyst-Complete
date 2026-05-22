@@ -1,27 +1,28 @@
 # Data-Analyst-Complete
 
-Problem Understanding
+##Problem Understanding
         ↓
-Collect Dataset
+##Collect Dataset
         ↓
-Import Libraries
+##Import Libraries
         ↓
-Load Dataset
+##Load Dataset
         ↓
-Data Cleaning
+##Data Cleaning
         ↓
-Feature Selection
+##Feature Selection
         ↓
-Train-Test Split
+##Train-Test Split
         ↓
-Choose Model
+##Choose Model
         ↓
-Train Model
+##Train Model
         ↓
-Prediction
+##Prediction
         ↓
-Accuracy Checking
+##Accuracy Checking
         ↓
-Save Model
+##Save Model
         ↓
-Deployment
+##Deployment
+
